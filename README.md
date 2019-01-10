@@ -7,3 +7,4 @@
 1. Install anaconda
 2. Run `conda create --name <myenv> --file spec-file.txt` to create an identical environment 
 
+https://github.com/nishchaychawla/Data-Wrangling-of-WeRateDogs/blob/master/wrangle_act.ipynb
